@@ -2,7 +2,7 @@
 Chatbot developed in TensorFlow. Seq2seq vanilla, Attention and Beam Serch
 
 ## Overview
-A chatbot trained on the Cornell Movie-Dialogs Corpus and evaluated using BLEU-4 and perplexity. Other methods such as Attention and Beam search were used to augment the model. Our chatbot is able to generate human like responses. However the pre-processing step was not designed properly and the output can not produce great results.
+A chatbot trained on the Cornell Movie-Dialogs Corpus and evaluated using BLEU-4 and perplexity. Other methods such as Attention and Beam search were used to augment the model. Our chatbot is able to generate human like responses. 
 
 ## TO-DO
 - [ ] Pre-processing
